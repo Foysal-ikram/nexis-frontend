@@ -57,7 +57,7 @@ const Signup3 = () => {
   }
 
   return (
-    <div className='h-screen	 w-full  lg:px-24 px-10  md:py-16 lg:py-20 h-full  drop-shadow-lg bg-white lg:-mt-20  md:ml-auto md:max-w-lg	'>
+    <div className='h-screen	 w-full  lg:px-24 px-10  md:py-16 lg:py-20  drop-shadow-lg bg-white lg:-mt-20  md:ml-auto md:max-w-lg	'>
      
       <div>
         <h1 className='md:mb-20 mb-10 font-semibold text-center text-xl	'>SignUp Form</h1>

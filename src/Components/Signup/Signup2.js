@@ -30,7 +30,7 @@ const Signup2 = () => {
     }
 
     return (
-        <div className='h-screen	 w-full lg:px-24 px-10 py-10 md:py-16 lg:py-20 h-fit drop-shadow-lg bg-white lg:-mt-20  md:ml-auto md:max-w-lg	'>
+        <div className='h-screen	 w-full lg:px-24 px-10 py-10 md:py-16 lg:py-20  drop-shadow-lg bg-white lg:-mt-20  md:ml-auto md:max-w-lg	'>
             <div>
                 <h1 className='md:mb-20 mb-10 font-semibold text-center text-xl	'>SignUp Form</h1>
                 <input onBlur={getValue} className="pl-6 py-2 px-3 appearance-none  border-b-2 border-gray-200	 rounded w-full text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="username" type="text" placeholder="Phone Number" />
