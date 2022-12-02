@@ -1,0 +1,32 @@
+.btn1{
+    color: white;
+    background-color: #1678CB;
+    border: #1678CB 2px solid;
+    font-weight: 500;
+    margin-top: 80px;
+
+}
+
+.btn1:hover{
+    color : #1678CB ;
+    background-color: white;
+    transition: .2s;
+    border: #1678CB 2px solid;
+}
+.btn1:active{
+    transition: .5s;
+    transform: scale(.8);
+}
+
+.btn2{
+    color: black;
+    background-color: #ffffff;
+    font-weight: 500;
+    margin-top: 80px;
+    padding-left:20px;
+}
+
+.color2{
+    color: #1678CB;
+    font-weight: 600;
+}
